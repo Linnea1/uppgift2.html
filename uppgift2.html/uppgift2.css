@@ -1,0 +1,30 @@
+body{
+    background-color: grey;
+    text-align: center;
+    font-family: 'Lucida Grande';
+}
+#h1{
+    font-size: 60px;
+    font-weight: bolder;
+    background-color: teal;
+}
+h2{
+    font-size: 40px;
+}
+.hl{
+    font-size:30px;
+    text-decoration: underline;
+}
+#padding{
+    padding-left:200px;
+    padding-right: 200px;
+}
+.box{
+    border: 10px solid rgb(80, 131, 146);
+}
+.textcolour{
+    color: midnightblue;
+}
+.bg{
+    background-color: darkgray;
+}
